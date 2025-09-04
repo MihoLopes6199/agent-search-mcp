@@ -1,6 +1,6 @@
 {
   "name": "agent-search-mcp",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "Free-first Chinese and English web search MCP using zero-key sources and inspectable evidence.",
   "main": "src/index.ts",
   "scripts": {
